@@ -26,7 +26,7 @@ const Header = () => {
         <div className="row align-items-center">
           <div className="col-6">
             <Link className="navbar-brand" to="/">
-              MoneyM@p
+              MoneyMap
             </Link>
           </div>
           <div className="col-6">
