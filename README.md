@@ -7,6 +7,7 @@ It's a web application developed using the MERN stack, designed to help users ma
 <p align="center">
   <img alt="img-name" src="Images/Registration.png" width="700">
 </p>
+
 - **Homepage**
 <p align="center">
   <img alt="img-name" src="Images/homepage.png" width="700">
@@ -16,22 +17,27 @@ It's a web application developed using the MERN stack, designed to help users ma
 <p align="center">
   <img alt="img-name" src="Images/freq.png" width="700">
 </p>
+
 - **Income/Expense Type Filter**
 <p align="center">
   <img alt="img-name" src="Images/type.png" width="700">
 </p>
+
 - **Add Transaction**
 <p align="center">
   <img alt="img-name" src="Images/trans.png" width="700">
 </p>
+
 - **Income Piechart**
 <p align="center">
   <img alt="img-name" src="Images/income.png" width="700">
 </p>
+
 - **Expense Piechart**
 <p align="center">
   <img alt="img-name" src="Images/expense.png" width="700">
 </p>
+
 - **Overall Piechart**
 <p align="center">
   <img alt="img-name" src="Images/all.png" width="700">
