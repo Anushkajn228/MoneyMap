@@ -2,6 +2,42 @@
 
 It's a web application developed using the MERN stack, designed to help users manage their expenses. The application allows users to create and manage their accounts, add, edit, delete and view their expenses in pie-chart.
 
+## Project View
+- **Registration/Login**
+<p align="center">
+  <img alt="img-name" src="Images/Registration.png" width="700">
+</p>
+- **Homepage**
+<p align="center">
+  <img alt="img-name" src="Images/homepage.png" width="700">
+</p>
+
+- **Frequency Filter**
+<p align="center">
+  <img alt="img-name" src="Images/freq.png" width="700">
+</p>
+- **Income/Expense Type Filter**
+<p align="center">
+  <img alt="img-name" src="Images/type.png" width="700">
+</p>
+- **Add Transaction**
+<p align="center">
+  <img alt="img-name" src="Images/trans.png" width="700">
+</p>
+- **Income Piechart**
+<p align="center">
+  <img alt="img-name" src="Images/income.png" width="700">
+</p>
+- **Expense Piechart**
+<p align="center">
+  <img alt="img-name" src="Images/expense.png" width="700">
+</p>
+- **Overall Piechart**
+<p align="center">
+  <img alt="img-name" src="Images/all.png" width="700">
+</p>
+
+
 
 ## Functionality
 
