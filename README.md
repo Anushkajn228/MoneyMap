@@ -10,7 +10,7 @@ It's a web application developed using the MERN stack, designed to help users ma
 
 - **Homepage**
 <p align="center">
-  <img alt="img-name" src="Images/homepage.png" width="700">
+  <img alt="img-name" src="Images/Homepage.png" width="700">
 </p>
 
 - **Frequency Filter**
@@ -20,7 +20,7 @@ It's a web application developed using the MERN stack, designed to help users ma
 
 - **Income/Expense Type Filter**
 <p align="center">
-  <img alt="img-name" src="Images/type.png" width="700">
+  <img alt="img-name" src="Images/Type.png" width="700">
 </p>
 
 - **Add Transaction**
